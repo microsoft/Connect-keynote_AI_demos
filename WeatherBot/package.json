@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "botbuilder": "^3.8.4",
+    "botbuilder": "^3.13.1",
+    "botbuilder-azure": "^3.0.4",
     "restify": "^5.0.0"
   },
   "devDependencies": {

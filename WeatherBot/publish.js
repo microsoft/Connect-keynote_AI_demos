@@ -4,10 +4,10 @@ var fs = require('fs');
 var request = require('request');
 
 var rootFolder = path.resolve('.');
-var zipPath = path.resolve(rootFolder, '../connectbot-nyc.zip');
-var kuduApi = 'https://connectbot-nyc.scm.azurewebsites.net/api/zip/site/wwwroot';
-var userName = '$connectbot-nyc';
-var password = 'qYWdjt6XqdLyGifw88jQT2yCwRRrvCF37GgR6KmsnfsLB2CcL1XD51J61St5';
+var zipPath = path.resolve(rootFolder, '../connectbot-git.zip');
+var kuduApi = 'https://connectbot-git.scm.azurewebsites.net/api/zip/site/wwwroot';
+var userName = '$connectbot-git';
+var password = 'DZWYfC7aJYRMwzNlhrzx1icggervs3EWzjA2zflES8ocWCiXH7H3HHMprqvi';
 
 function uploadZip(callback) {
   fs.createReadStream(zipPath).pipe(request.put(kuduApi, {
@@ -45,8 +45,8 @@ function publish(callback) {
 
 publish(function(err) {
   if (!err) {
-    console.log('connectbot-nyc publish');
+    console.log('connectbot-git publish');
   } else {
-    console.error('failed to publish connectbot-nyc', err);
+    console.error('failed to publish connectbot-git', err);
   }
 });
