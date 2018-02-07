@@ -105,7 +105,7 @@ background in the field.
 > ![](./Images/media/image3.png){width="3.2180096237970255in"
 > height="2.022276902887139in"}
 
-Custom Vision Service is a tool for developers to quickly and easily
+**Explanation-** Custom Vision Service is a tool for developers to quickly and easily
 build and deploy their own image classifiers.
 
 The workflow is simple: upload some training data, train, then call your
@@ -119,7 +119,7 @@ earlier.
 > ![](./Images/media/image4.png){width="3.276794619422572in"
 > height="1.3838856080489939in"}
 
-I've already uploaded a couple of training images.
+**Explanation-** I've already uploaded a couple of training images.
 
 Right now, you are looking at the UX, but this website is built on
 public APIs- you can do anything you see today programmatically or via
@@ -145,7 +145,7 @@ data to training, can be done in less than ten minutes
     ![](./Images/media/image5.png){width="3.047392825896763in"
     height="1.6458333333333333in"}
 
-Trained models are hosted at a REST endpoint, which users can call from
+**Explanation-** Trained models are hosted at a REST endpoint, which users can call from
 their website or application.
 
 I can do a quick test of my model here.
@@ -172,7 +172,7 @@ I can do a quick test of my model here.
     ![](./Images/media/image7.png){width="3.198140857392826in"
     height="1.758293963254593in"}
 
-    We host your model at an API endpoint, but Sometimes you need an
+    **Explanation-** We host your model at an API endpoint, but Sometimes you need an
     on-client experience because of network issues or latency. MSFT is
     here for you at the intelligent edge.
 
