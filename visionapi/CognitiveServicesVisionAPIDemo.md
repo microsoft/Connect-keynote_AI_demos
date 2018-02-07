@@ -16,7 +16,7 @@ The **three things viewers** should take away from this demo:
     -   Cognitive Services are easy to use and compose in your
         applications
 
-3.  **Customization with CustomVision.ai **
+3.  **Customization with CustomVision.ai**
 
     -   Custom Vision Service lets you build a custom image classifier
         with ease
