@@ -33,7 +33,7 @@ Demo Machines (requirements) and Tools
 Demo Pre-Setup and Cleanup
 ==========================
 
--   Unzipped folder in Documents or Desktop:
+-   Unzip folder "fruits.zip" in Documents or Desktop:
 
 -   Open these tabs
 
