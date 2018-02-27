@@ -25,15 +25,13 @@ Demo Flow
 
 -   Create a Bot or Skill
 
-    ![](./Imagebot/media/image1.png){width="2.9604166666666667in"
-    height="2.0868055555555554in"}
+    ![](./Imagebot/media/image1.png)
 
 -   Hit Create
 
 -   Create a new SDK bot hosted in Microsoft Azure
 
-    ![](./Imagebot/media/image2.png){width="2.5208333333333335in"
-    height="1.0568022747156605in"}
+    ![](./Imagebot/media/image2.png)
 
 -   Enter app name
 
@@ -45,13 +43,11 @@ Demo Flow
 
 -   Click Create
 
-    ![](./Imagebot/media/image3.png){width="1.7291666666666667in"
-    height="3.313888888888889in"}
+    ![](./Imagebot/media/image3.png)
 
 -   Choose NodeJS & Language Understanding Option
 
-    ![](./Imagebot/media/image4.png){width="4.040277777777778in"
-    height="2.533333333333333in"}
+    ![](./Imagebot/media/image4.png)
 
 -   We now have a choice between C\# and NodeJS and several different
     bot templates. Today look at a Node bot that makes use of
@@ -67,9 +63,8 @@ Demo Flow
 
 -   Here's the code
 
-    ![](./Imagebot/media/image5.png){width="2.8115682414698164in"
-    height="1.9895833333333333in"}![](./Imagebot/media/image6.png){width="2.6819444444444445in"
-    height="1.2760422134733158in"}
+    ![](./Imagebot/media/image5.png)
+    ![](./Imagebot/media/image6.png)
 
 -   Let's look at this app.js file in Visual Studio Code. Here we have a
     very basic bot that will let you plug in your LUIS api keys.
@@ -95,13 +90,11 @@ Demo Flow
     will tell you the trends in weather like how much does it rain in
     Seattle?
 
--   Let's Train and publish
+-   Let's Train and publish the bot
 
-    ![](./Imagebot/media/image7.png){width="4.411458880139983in"
-    height="2.629861111111111in"}
+    ![](./Imagebot/media/image7.png)
 
-    ![](./Imagebot/media/image8.png){width="2.9604166666666667in"
-    height="0.7798611111111111in"}
+    ![](./Imagebot/media/image8.png)
 
 -   If we go back to the bot and change the code slightly to look for
     these new intents that we added in we can try it out.
@@ -110,14 +103,12 @@ Demo Flow
     back that the intent is weather forecast. Awesome! That's what we
     expected. If I say "current weather" we get Weather Condition.
 
-    ![](./Imagebot/media/image9.png){width="2.15625in"
-    height="2.920614610673666in"}
+    ![](./Imagebot/media/image9.png)
 
 -   But now if I try something like "What's your name?" it thinks that
     the intent is Get forecast. Now that doesn't seem right...
 
-    ![](./Imagebot/media/image10.png){width="4.89375in"
-    height="1.5534722222222221in"}
+    ![](./Imagebot/media/image10.png)
 
 -   With a few simple utterances in LUIS we can make the bot just a
     little smarter.
@@ -135,8 +126,7 @@ Demo Flow
 
 -   Let's go back and refresh our app to see what happens.
 
-    ![](./Imagebot/media/image11.png){width="4.90625in"
-    height="1.625in"}
+    ![](./Imagebot/media/image11.png)
 
 -   So we can see how easy and fast it is to add AI to our bots, but
     let's see a real-life scenario of how Cognitive Service is helping
@@ -175,48 +165,6 @@ Solutions as well as Mixed Reality. The possibilities are endless, and
 the institute is making amazing strides to saving lives through
 artificial intelligence!
 
-![](./Imagebot/media/image12.png){width="1.90625in"
-height="1.718176946631671in"}
+![](./Imagebot/media/image12.png)
+![](./Imagebot/media/image13.png)
 
-![](./Imagebot/media/image13.png){width="6.557292213473316in"
-height="2.922222222222222in"}
-
-We're excited to show how easy it is to create a bot service in Azure
-and leverage our AI technologies to it.
-
-As you can see I am on the dev.botframework website where I can create a
-new bot or skill. I have the option to create a new SDK bot hosted in
-Microsoft Azure or to Register an existing bot. Today we will create a
-new SDK bot hosted in Microsoft Azure. This will automatically bring us
-to create a new bot service in Azure. We quickly enter an app name and
-credentials.
-
--   And voila! We now have a bot that's ready to be configured.
-
-<!-- -->
-
--   Open dev.botframework.com
-
--   Create a Bot or Skill
-
--   Create
-
--   Create a new SDK bot hosted in Microsoft Azure
-
--   Enter app name
-
--   Choose Subscription
-
--   Create new Resource Group
-
--   Choose Hosting plan
-
--   Click Create
-
--   Choose NodeJS & Language Understanding Option
-
--   Click Next
-
--   Download Zip File
-
--   
