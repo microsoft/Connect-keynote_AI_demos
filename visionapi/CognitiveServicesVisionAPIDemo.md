@@ -63,8 +63,7 @@ Let's look at some examples.
 -   Click on "Start recording". Say something, click on "Stop
     recording."
 
-> ![](./Images/media/image1.png){width="2.9590277777777776in"
-> height="1.7215277777777778in"}
+> ![](./Images/media/image1.png)
 
 **Explanation**- Here I am on the Cognitive Services site- you can try
 these demos out yourself at home.
@@ -85,8 +84,7 @@ about a piece of content, as easily as possible.
 
 -   Go to vision tab and Upload a picture
 
-    ![](./Images/media/image2.png){width="2.9590277777777776in"
-    height="1.7409722222222221in"}
+    ![](./Images/media/image2.png)
 
 **Explanation-** The Computer Vision API gives you tags, so that you
 know what is in an image. For example, "train", "station", "subway". It
@@ -102,8 +100,7 @@ products. To this end, we released our Custom Vision Service last May to
 enable companies to add computer vision to their applications, without a
 background in the field.
 
-> ![](./Images/media/image3.png){width="3.2180096237970255in"
-> height="2.022276902887139in"}
+> ![](./Images/media/image3.png)
 
 **Explanation-** Custom Vision Service is a tool for developers to quickly and easily
 build and deploy their own image classifiers.
@@ -116,8 +113,7 @@ Go to- <http://customvision.ai> to learn more
 This is my projects page. Let's look at a project I was working on
 earlier.
 
-> ![](./Images/media/image4.png){width="3.276794619422572in"
-> height="1.3838856080489939in"}
+> ![](./Images/media/image4.png)
 
 **Explanation-** I've already uploaded a couple of training images.
 
@@ -142,8 +138,7 @@ data to training, can be done in less than ten minutes
 
 -   Upload folder of images
 
-    ![](./Images/media/image5.png){width="3.047392825896763in"
-    height="1.6458333333333333in"}
+    ![](./Images/media/image5.png)
 
 **Explanation-** Trained models are hosted at a REST endpoint, which users can call from
 their website or application.
@@ -157,8 +152,7 @@ I can do a quick test of my model here.
 -   Click on Quick Test. Upload a local image to Quick Test. Scroll down
     to see results.
 
-    ![](./Images/media/image6.png){width="3.0914818460192475in"
-    height="1.6966819772528434in"}
+    ![](./Images/media/image6.png)
 
     All the images sent to my classifier are saved here and ranked in
     order of which images we think you should label. So, you can improve
@@ -169,8 +163,7 @@ I can do a quick test of my model here.
 
 -   Click Predictions
 
-    ![](./Images/media/image7.png){width="3.198140857392826in"
-    height="1.758293963254593in"}
+    ![](./Images/media/image7.png)
 
     **Explanation-** We host your model at an API endpoint, but Sometimes you need an
     on-client experience because of network issues or latency. MSFT is
@@ -196,7 +189,5 @@ I can do a quick test of my model here.
 
 -   Download
 
-    ![](./Images/media/image8.png){width="3.260025153105862in"
-    height="1.9431277340332458in"}
-
+    ![](./Images/media/image8.png)
 [ ]{.underline}

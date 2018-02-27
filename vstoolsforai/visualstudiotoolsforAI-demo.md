@@ -75,8 +75,7 @@ Demo Flow
 
 -   **File -\> New -\> Template**
 
-> ![](./Image/media/image1.png){width="4.187303149606299in"
-> height="2.3958333333333335in"}
+> ![](./Image/media/image1.png)
 
 **Explanation**-
 
@@ -92,8 +91,7 @@ Demo Flow
     breakpoint to debug locally-\> Check value of local variables-\>
     Continue-\> Show data while tool is running**
 
-> ![](./Image/media/image2.png){width="4.1819444444444445in"
-> height="2.3802088801399823in"}
+> ![](./Image/media/image2.png)
 
 **Explanation**- **\[-- Running Python Code\]**
 
@@ -109,8 +107,7 @@ Demo Flow
 
     -   Select output folder, click OK
 
-        ![](./Image/media/image3.png){width="4.286341863517061in"
-        height="2.541255468066492in"}
+        ![](./Image/media/image3.png)
 
 > **Explanation**- \[-**Showing TensorBoard\]**
 
@@ -133,8 +130,7 @@ Demo Flow
 
 -   Submit
 
-    ![](./Image/media/image4.png){width="4.348958880139983in"
-    height="2.25in"}
+    ![](./Image/media/image4.png)
 
 > **Explanation- \[-Submitting Job to the VM\]**
 
@@ -151,8 +147,7 @@ Demo Flow
 -   **Right Click -\> Show heatmap\
     **(SET TO 5s REFRESH)
 
-    ![](./Image/media/image5.png){width="4.265625546806649in"
-    height="2.359027777777778in"}
+    ![](./Image/media/image5.png)
 
 <!-- -->
 
@@ -162,8 +157,7 @@ Demo Flow
 
 -   Open Working Folder
 
-    ![](./Image/media/image6.png){width="4.307292213473316in"
-    height="2.609027777777778in"}
+    ![](./Image/media/image6.png)
 
     Explanation-
 
@@ -192,7 +186,7 @@ Demo Flow
 
 -   (AI Infrastructure) BatchAI / VMs
 
-> ![](./Image/media/image7.png){width="4.3125in" height="2.5625in"}
+> ![](./Image/media/image7.png)
 
 Explanation-
 
@@ -278,8 +272,7 @@ Explanation-
 
 -   **Eval **
 
-    ![](./Image/media/image8.png){width="3.9375in"
-    height="3.6140977690288714in"}
+    ![](./Image/media/image8.png)
 
     -   Yes! We are literally moving the picture into the proper input
         shape and calling Evaluate on the data.
@@ -294,5 +287,4 @@ Explanation-
 
 -   **Explore locals -\> outputData**
 
-    ![](./Image/media/image9.png){width="3.8694444444444445in"
-    height="2.5781255468066493in"}
+    ![](./Image/media/image9.png)
